@@ -1,6 +1,8 @@
 # About Me
 
-Hello! I'm Segun Akinyemi. You can learn more about me on my personal website, <https://segunakinyenmi.com>. What follows below are some fun GitHub metrics and features courtesy of <https://github.com/lowlighter/metrics>
+Hello! I'm Segun Akinyemi. You can learn more about me on my personal website, <https://segunakinyemi.com>. 
+
+What follows below are some fun GitHub metrics and features courtesy of <https://github.com/lowlighter/metrics>
 
 ## Recently Starred Repositories
 
