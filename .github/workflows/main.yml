@@ -24,12 +24,3 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 6
-      - name: Python Code Snippet of the Day
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.code.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript, python
-          plugin_code_load: 400
